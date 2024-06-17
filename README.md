@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bogusław Nozdryń and I'm a college student from Poland, currently studying at UMK in Toruń. I'm passionate about technology and always eager to learn new</p>
+<p align="left">My name is Bogusław and I'm a college student from Poland, currently studying at UMK in Toruń. I'm passionate about technology and always eager to learn new</p>
 
 ###
 
