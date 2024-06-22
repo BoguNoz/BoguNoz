@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning advanced concepts in ASP .NET and honing my skills in web app development.<br>🎯 Goals: My immediate goal is to secure a position in web app development where I can apply my knowledge of ASP .NET and contribute to real-world projects. In the long run, I aim to become an expert in this field, lead innovative projects, and broaden my horizons.<br>🎲 Fun fact: When I'm not coding, you can find me practicing judo or planning my next travel adventure.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning advanced programing concepts and honing my skills in web app development.<br>🎯 Goals: My immediate goal is to secure a position in web app development where I can apply my knowledge and contribute to real-world projects. In the long run, I aim to become an expert in this field, lead innovative projects, and broaden my horizons.<br>🎲 Fun fact: When I'm not coding, you can find me practicing judo or planning my next travel adventure.</p>
 
 ###
 
